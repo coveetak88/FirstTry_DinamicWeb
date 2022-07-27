@@ -21,4 +21,4 @@ navLink.forEach((link, index) => {
     console.log(index / 5);
 })
 }
-dropdown();
+dropdown(); 
